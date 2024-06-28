@@ -1,4 +1,4 @@
-# Lego House (a Lego Scam Company)
+# Tesla
 
 This repo contains a plain HTML/CSS website which shows the description and features of the tesla company. The design of the website was inspired by the following resource: `https://qualmax.co.nz/`.
 
